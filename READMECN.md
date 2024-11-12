@@ -42,7 +42,7 @@ git clone git@github.com:GraceXiaoo/quill-extention.git ~/quill-extension
 
 > 这里选择的目录，就是刚刚第一步，你下载源码后的那个目录。
 
-![](./images/quill.png)
+![](./images/quill-extension.png)
 
 然后我们就可以看到插件已经安装成功了！现在就好好的玩耍吧！
 
