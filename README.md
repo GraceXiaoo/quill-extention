@@ -46,7 +46,7 @@ Click "Load unzipped extensions" in the upper left corner, and then directly sel
 
 > The directory selected here is the directory where you downloaded the source code in the first step.
 
-![](./images/quill-extention.png)
+![](./images/quill-extension.png)
 
 Then we can see that the plugin has been installed successfully! Now let's have fun!
 
