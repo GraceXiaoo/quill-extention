@@ -23,25 +23,25 @@ git clone https://github.com/pudongping/mp-vx-insight.git ~/quill-extension
 
 - 第一：可以直接访问 `chrome://extensions` 进行打开；
 
-![](./assets/open-chrome-setting1.png)
+![](./images/open-chrome-setting1.png)
 
 - 第二：通过「扩展程序」->「管理扩展程序」进行打开；
 
-![](./assets/open-chrome-setting2.png)
+![](./images/open-chrome-setting2.png)
 
 - 第三：通过「设置」->「扩展程序」->「管理扩展程序」进行打开；
 
-![](./assets/open-chrome-setting3.png)
+![](./images/open-chrome-setting3.png)
 
 #### 2-2、开启「开发者模式」
 
-![](./assets/enable-dev-mode.png)
+![](./images/enable-dev-mode.png)
 
 一定要开启「开发者模式」。
 
 #### 2-3、加载插件
 
-![](./assets/load-source-code1.png)
+![](./images/load-source-code1.png)
 
 点击左上角的「加载已解压的扩展程序」，然后直接选择插件目录即可。
 
