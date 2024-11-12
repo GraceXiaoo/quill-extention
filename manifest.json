@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "QUILL Copilot: Your Writing Assistant for Quotation Generation",
+    "version": "1.0",
+    "description": "A simple Chrome extension with a side panel.",
+    "permissions": [
+    "sidePanel",
+    "clipboardWrite",
+    "activeTab",
+    "scripting",
+    "http://10.176.40.139:8090/"
+  ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Open Side Panel"
+    },
+    "icons": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    },
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ]
+  }
