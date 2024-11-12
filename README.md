@@ -41,13 +41,11 @@ git clone git@github.com:GraceXiaoo/quill-extention.git ~/quill-extension
 
 #### 2-3、加载插件
 
-![](./images/load-source-code1.png)
+![](./images/load.png)
 
 点击左上角的「加载已解压的扩展程序」，然后直接选择插件目录即可。
 
 > 这里选择的目录，就是刚刚第一步，你下载源码后的那个目录。
-
-![](./assets/load-source-code.png)
 
 然后我们就可以看到插件已经安装成功了！现在就好好的玩耍吧！
 
