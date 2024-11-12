@@ -11,7 +11,7 @@ chrome extension for quill writing assistant
 ## 1. 获取源码
 
 ```
-git clone https://github.com/pudongping/mp-vx-insight.git ~/quill-extension
+git clone git@github.com:GraceXiaoo/quill-extention.git ~/quill-extension
 
 ```
 
