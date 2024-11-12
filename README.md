@@ -3,8 +3,9 @@
 </p>
 <br>
 
-# quill-extention description
-chrome extension for quill writing assistant
+# 项目简介
+
+quill-extention是专为[论文](https://gracexiaoo.github.io/quill.github.io/)设计的一款chrome extension，支持文本润色改写和引经据典改写。
 
 # 使用说明
 
@@ -12,7 +13,6 @@ chrome extension for quill writing assistant
 
 ```
 git clone git@github.com:GraceXiaoo/quill-extention.git ~/quill-extension
-
 ```
 
 ## 2. 获取源码
@@ -47,6 +47,17 @@ git clone git@github.com:GraceXiaoo/quill-extention.git ~/quill-extension
 
 > 这里选择的目录，就是刚刚第一步，你下载源码后的那个目录。
 
+![](./images/quill.png)
+
 然后我们就可以看到插件已经安装成功了！现在就好好的玩耍吧！
+
+## 引用
+```
+@article{xiao24quill
+  author    = {JinXiao, BoweiZhang, QianyuHe, JiaqingLiang, FengWei, JingleiChen, ZujieLiang, DeqingYang, YanghuaXiao},
+  title     = {QUILL: Quotation Generation Enhancement of Large Language Models},
+  year      = {2024},
+}
+```
 
 
