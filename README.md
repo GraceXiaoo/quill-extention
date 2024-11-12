@@ -1,3 +1,7 @@
+<p align="left">
+    <a href="README_CN.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp
+</p>
+<br>
 # Project Introduction
 
 quill-extention is a chrome extension designed for [papers](https://gracexiaoo.github.io/quill.github.io/), which supports text polishing and rewriting with quotations.
