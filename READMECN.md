@@ -1,8 +1,3 @@
-<p align="left">
-    <a href="README_CN.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp
-</p>
-<br>
-
 # 项目简介
 
 quill-extention是专为[论文](https://gracexiaoo.github.io/quill.github.io/)设计的一款chrome extension，支持文本润色改写和引经据典改写。
